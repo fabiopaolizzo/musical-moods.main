@@ -2,10 +2,19 @@
 
 MUSICAL-MOODS: multimodal dataset
 
+https://github.com/fabiopaolizzo/musical-moods.audio
+https://github.com/fabiopaolizzo/musical-moods.video
+https://github.com/fabiopaolizzo/musical-moods.mocap
+https://github.com/fabiopaolizzo/musical-moods.language
+
+
 Dr. Fabio Paolizzo. Department of Electronic Engineering, University of Rome Tor Vergata.
 Place: University of California, Irvine.
 
-version: 1 date: 06.01.2019 datatypes: audio, video, motion capture, language web: http://www.musicalmoods2020.org/ web: https://cordis.europa.eu/project/rcn/195788/en
+version: 1 date: 06.01.2019 datatypes: audio, video, motion capture, language
+
+web: http://www.musicalmoods2020.org/
+web: https://cordis.europa.eu/project/rcn/195788/en
 
 The dataset comprises acquisitions from dance improvisations with VIVO interactive music system for automatic generation. Language data of interviews to the dancers that followed each acquisition is included.
 
