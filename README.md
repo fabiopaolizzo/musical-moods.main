@@ -1,4 +1,4 @@
-# musicall-moods.main
+# musical-moods.main
 
 MUSICAL-MOODS: multimodal dataset
 
